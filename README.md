@@ -1,2 +1,2 @@
 # Python-Flask-Todo-App
-This is a todo web app made using flask.
+This is a flask-powered to-do web application.
